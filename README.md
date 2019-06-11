@@ -1,5 +1,6 @@
 # zcash-community-test
-Please leave your feedback on Guarda for Shielded ZEC transactions Android application 
+Please leave your feedback on Guarda for Shielded ZEC transactions Android application.
+
 To take part in Guarda for Shielded community test, you need to follow these steps:
 1. Download the Android application
 2. Open the app and create a wallet – please check that your Internet connection is stable and give your new wallet a couple of seconds to sync with the blockchain
